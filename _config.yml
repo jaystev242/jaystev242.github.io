@@ -23,7 +23,7 @@ repository               : "jaystev242/jaystev242.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #
+  avatar           : images/1785747526272.png
   name             : "Mr Jay Stevens"
   pronouns         : "he/him"  
   bio              : "Statistics | Data Science"
