@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/CERTIFICATE_LANDING_PAGE~2FXJ0UGI1P2H.jpeg'>"
+title: "Structured Query Language (SQL) Certificate"
+excerpt: "University of Michigan / Coursera Certificate<br/><img src='/images/CERTIFICATE_LANDING_PAGE~2FXJ0UGI1P2H.jpeg'>"
 collection: portfolio
 ---
 
