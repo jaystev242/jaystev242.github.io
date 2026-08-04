@@ -2,7 +2,7 @@
 title: "Structured Query Language (SQL) Certificate"
 excerpt: "University of Michigan / Coursera Certificate<br/><img src='/images/CERTIFICATE_LANDING_PAGE~2FXJ0UGI1P2H.jpeg'>"
 collection: portfolio
-date: 2025-11-03
+date: 2025-10-03
 ---
 
 University of Michigan / Coursera - Introduction to Structured Query Language (SQL) Certificate
