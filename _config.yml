@@ -38,7 +38,7 @@ author:
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : #"https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-8337-0114"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jay-s-201a17184"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -84,12 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
