@@ -9,7 +9,7 @@ redirect_from:
 
 {% include toc %}
 
-Jay Stevens is a motivated and detail-oriented early-career statistician and data scientist, currently persuing an Australian Computer Society (ACS) accredited  Master of Data Science from the University of Southern Queensland. He has over 5 years' experience working in a professional academic research environment.
+Jay Stevens is a motivated and detail-oriented early-career statistician and data scientist, currently persuing an Australian Computer Society (ACS) accredited  Master of Data Science from the University of Southern Queensland. He has over 3 years' experience working in a professional academic research environment.
 
 Experience
 ----------
