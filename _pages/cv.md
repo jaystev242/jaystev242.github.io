@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* Master of Data Science, MADS, University of Southern Queensland, December 2027 (expected)
-  * Covered the tooics of:
+* **Master of Data Science, MADS**, University of Southern Queensland, December 2027 (expected)
+  * Covered the topics of:
     * Python programming, SQL, NoSQL, Hadoop/MapReduce, Apache Spark, PySpark
     * Cloud security and business intelligence 
     * IS/ICT project management
-    * Applied analytics
+    * Applied analytics  
 
-* Graduate Diploma of Science (Mathematics and Statistics), GDSC, University of Southern Queensland, 2023
-  * Graduated with Distinction
+* **Graduate Diploma of Science (Mathematics and Statistics), GDSC**, University of Southern Queensland, 2023
+  * Graduated with Distinction  
+
   * Covered the topics of:
     * General and generalised linear models, multivariate methods, factor analysis, data cleaning, posthoc tests
     * Survey design and analysis
     * Data visualisation in python/pandas and R
     * Reproducible workflows in R using Markdown and version control
-    * Object-oriented programming and computational computing
+    * Advanced mathematical concepts
+    * Object-oriented programming and computational computing  
+\n
 
-* Bachelor of Science (Psychology), BSCP, University of Southern Queensland, 2022
+* **Bachelor of Science (Psychology), BSCP**, University of Southern Queensland, 2022
   * Valedictorian
   * Graduated with Distinction
   * Faculty Medal recipient
   * Summer Research Experience Scholarship recipient ($2,000)
-  * Golden Key international honours society membership awarded
+  * Golden Key international honours society membership awarded  
+
   * Covered the topics of:
-    * General, cultural, child and adolescent, abnormal, cognitive, behavioural, and organisational psychology
+    * General, cultural and Indigenous, developmental, abnormal, cognitive, behavioural, clinical health, counselling, and organisational psychology
+    * Human services case management
+    * Child abuse and neglect
     * Research ethics, design and analysis in psychology
     * Psychological assessments
     * Statistical analysis using IBM SPSS
